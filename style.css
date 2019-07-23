@@ -28,8 +28,8 @@ body {
 .navbar-brand img{
 	margin: 0;
 	padding: 0;
-	margin-left: 50px;
-	margin-top: 10px;
+	margin-left: 20px;
+	margin-top: 5px;
 	width: 70px;
 	height: 63px;
 }
@@ -189,8 +189,8 @@ article, aside, figure, footer, header, hgroup, section {
 	border-radius: 19px ;
 	border : 3px solid #8c43ff;
 	font-weight: bold;
-	margin-left: 100px;
-	margin-right: 80px;
+	margin-left: 60px;
+	margin-right: auto;
 	margin-top: 5px;
 
 }
